@@ -12,7 +12,7 @@ public:
             }
             maximum_count=max(maximum_count,count);
         }
-        return max(maximum_count,count);
+        return maximum_count;
         
     }
 };
