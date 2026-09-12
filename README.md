@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -60,9 +62,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
