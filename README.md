@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0835-image-overlap) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
