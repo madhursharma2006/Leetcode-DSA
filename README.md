@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0835-image-overlap) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0498-diagonal-traverse) |
 ## Geometry
 |  |
 | ------- |
