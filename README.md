@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
 | ------- |
