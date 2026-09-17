@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -12,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0283-move-zeroes) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
