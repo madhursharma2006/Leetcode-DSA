@@ -4,15 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2833-furthest-point-from-origin) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
