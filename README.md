@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -169,4 +170,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
