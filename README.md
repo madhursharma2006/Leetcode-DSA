@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
