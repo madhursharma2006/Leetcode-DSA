@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0836-rectangle-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2833-furthest-point-from-origin) |
