@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0836-rectangle-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
