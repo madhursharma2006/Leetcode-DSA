@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
