@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -214,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
