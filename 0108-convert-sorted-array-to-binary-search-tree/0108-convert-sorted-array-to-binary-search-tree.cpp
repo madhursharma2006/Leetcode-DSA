@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* build(vector<int>nums,int left,int right){
+    TreeNode* build(vector<int>&nums,int left,int right){
         if(left>right) return NULL;
         int mid=left+(right-left)/2;
         TreeNode *root=new TreeNode(nums[mid]);
