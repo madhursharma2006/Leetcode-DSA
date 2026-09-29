@@ -22,7 +22,7 @@ public:
 
         targetSum -= root->val;
 
-        return hasPathSum(root->left, targetSum) |
+        return hasPathSum(root->left, targetSum) ||
                hasPathSum(root->right, targetSum);
     }
 };
