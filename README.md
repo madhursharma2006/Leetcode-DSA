@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -258,9 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Polygons
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
