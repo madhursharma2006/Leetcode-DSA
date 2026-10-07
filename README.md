@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0856-score-of-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
