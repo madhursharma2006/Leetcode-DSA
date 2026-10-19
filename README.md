@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0268-missing-number) |
