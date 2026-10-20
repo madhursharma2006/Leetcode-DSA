@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0223-rectangle-area) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0097-interleaving-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhursharma2006/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
